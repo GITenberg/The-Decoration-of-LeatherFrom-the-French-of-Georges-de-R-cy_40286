@@ -1,0 +1,40 @@
+_repo: The-Decoration-of-LeatherFrom-the-French-of-Georges-de-R-cy_40286
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Nathan, Maude
+    gutenberg_agent_id: '40526'
+    url: http://www.gutenberg.org/2009/agents/40526
+covers:
+- cover_type: archival
+  image_path: 40286-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Récy, Georges de
+    aliases:
+    - Recy, Georges de
+    - De Récy, Georges
+    gutenberg_agent_id: '40525'
+    url: http://www.gutenberg.org/2009/agents/40525
+description: ''
+gutenberg_issued: '2012-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Leatherwork'
+tableOfContents: 'Translator''s note -- Introduction: the decoration of leather in
+  the past -- Tools and leather -- Methods of working in leather -- Leather mosaic
+  -- Dyes, patines and gilding -- The choice of design and colour -- Appendix: Leather
+  hangings and furniture -- Note: Some extracts from the report of the committee on
+  leather for bookbinding, appointed by the Council of the Society of Arts, February,
+  1900.'
+title: 'The Decoration of Leather
+
+  From the French of Georges de Récy'
+url: http://www.gutenberg.org/ebooks/40286
